@@ -6,5 +6,8 @@ public class Main {
         float piSayisi = 3.14f;
         System.out.println(piSayisi);
 
+        double vDouble = 6.768;
+        System.out.println(vDouble);
+
     }
 }
